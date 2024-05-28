@@ -9,12 +9,7 @@ I taught at Columbia, NYU, CUNY, and then worked for an EdTech startup for five 
 Fun facts:
 My high school band Attica was signed to an indie record label.
 I have 9.5k hours in the game Dota 2. -.-
-> I'm a huge foodie!
-
-`hello`
-```
-my nam is ali
-```
+I'm a huge foodie!
 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@matrixmatr9271/30-nites-of-code)  
