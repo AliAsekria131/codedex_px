@@ -11,6 +11,11 @@ My high school band Attica was signed to an indie record label.
 I have 9.5k hours in the game Dota 2. -.-
 > I'm a huge foodie!
 
+`hello`
+```
+my nam is ali
+```
+
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@matrixmatr9271/30-nites-of-code)  
   ![@matrixmatr9271 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=matrixmatr9271)
