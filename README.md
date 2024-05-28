@@ -2,11 +2,9 @@
 # Howdy 👋
 I'm Ali Asekria , I'm from in Syria .
 
-I'm Sonny, Founder & Chief Vibes Officer @ Codédex and I'm based in Brooklyn, NY. Give our GitHub a follow!
-
 # About me:
-I studied Computer Science at Tishreen University. 
-I play on oud :guitar:, and I Game a game in Godot ,
+I studied Computer Science at Tishreen University. <br>
+I play on oud :guitar:, and I Game a game in Godot ,<br>
 now i learn web development from codedex .
 
 ## #30NitesOfCode:
